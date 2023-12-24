@@ -1,0 +1,20 @@
+de/uniba/wiai/dsg/ajp/assignment1/search/impl/IOHandling.java
+ de.uniba.wiai.dsg.ajp.assignment1.search.impl.IOHandling
+de/uniba/wiai/dsg/ajp/assignment1/search/impl/PathValidator.java
+ de.uniba.wiai.dsg.ajp.assignment1.search.impl.PathValidator
+de/uniba/wiai/dsg/ajp/assignment1/search/SearchTask.java
+ de.uniba.wiai.dsg.ajp.assignment1.search.SearchTask
+de/uniba/wiai/dsg/ajp/assignment1/search/impl/MyFile.java
+ de.uniba.wiai.dsg.ajp.assignment1.search.impl.MyFile
+de/uniba/wiai/dsg/ajp/assignment1/search/impl/Line.java
+ de.uniba.wiai.dsg.ajp.assignment1.search.impl.Line
+de/uniba/wiai/dsg/ajp/assignment1/search/TokenFinder.java
+ de.uniba.wiai.dsg.ajp.assignment1.search.TokenFinder
+de/uniba/wiai/dsg/ajp/assignment1/search/TokenFinderException.java
+ de.uniba.wiai.dsg.ajp.assignment1.search.TokenFinderException
+de/uniba/wiai/dsg/ajp/assignment1/search/impl/SimpleTokenFinder.java
+ de.uniba.wiai.dsg.ajp.assignment1.search.impl.SimpleTokenFinder
+de/uniba/wiai/dsg/ajp/assignment1/util/Timer.java
+ de.uniba.wiai.dsg.ajp.assignment1.util.Timer
+de/uniba/wiai/dsg/ajp/assignment1/Main.java
+ de.uniba.wiai.dsg.ajp.assignment1.Main

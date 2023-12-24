@@ -1,0 +1,14 @@
+src\main\resources\data\lib directory  was  ignored.
+src\main\resources\data\subfolder\ignore directory  was  ignored.
+
+src\main\resources\data\empty.txt includes **simple** 0 times.
+src\main\resources\data\other.txt: 2, 0 > **simple**
+src\main\resources\data\other.txt includes **simple** 1 times.
+src\main\resources\data\subfolder\text.txt: 1, 4 > asdf**simple**asdf
+src\main\resources\data\subfolder\text.txt: 2, 0 > **simple**
+src\main\resources\data\subfolder\text.txt includes **simple** 2 times.
+src\main\resources\data\test.txt: 2, 5 > very **simple** and extremely simple
+src\main\resources\data\test.txt: 2, 26 > very simple and extremely **simple**
+src\main\resources\data\test.txt includes **simple** 2 times.
+
+The  project  includes  **simple** 5 times.
